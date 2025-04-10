@@ -1,0 +1,51 @@
+{
+    "skills" : [
+        {
+            "id": "1",
+            "src": "./imgs/product-chain-1.png",
+            "title": "Front-End",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "2",
+            "src": "./imgs/tag-1.png",
+            "title": "Back-End",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "3",
+            "src": "./imgs/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "4",
+            "src": "./imgs/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique"
+        }
+    ],
+    "portfolio" : [
+        {
+            "id": "1",
+            "src": "./imgs/product-chain-1.png",
+            "title": "Hack-the-Earth",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View in Github"
+        },
+        {
+            "id": "2",
+            "src": "./imgs/tag-1.png",
+            "title": "Pokemon Game",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View in Github"
+        },
+        {
+            "id": "3",
+            "src": "./imgs/feather-pen-2.png",
+            "title": "RIPceipts",
+            "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View in Github"
+        }
+    ]
+}
