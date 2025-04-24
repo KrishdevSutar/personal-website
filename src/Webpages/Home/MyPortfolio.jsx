@@ -26,7 +26,7 @@ export default function MyPortfolio() {
                             <h3 className="portfolio--section--title">{item.title}</h3>
                             <p className="text-md">{item.description}</p>
                         </div>
-                        <Link to={`/github.com/KrishdevSutar/${item.link}`}  className="portfolio--content">
+                        <Link to={`/github.com/KrishdevSutar/${item.link}`}  className="portfolio--link">
                             <p className="text-sm portfolio--link">{item.link}</p>
                         </Link>
                     </div>

@@ -2,6 +2,7 @@ import AboutMe from "../AboutMe";
 import MainSection from "../MainSection";
 import MySkills from "../MySkills";
 import MyPortfolio from "../MyPortfolio";
+import ContactMe from "../ContactMe";
 
 export default function Home () {
     return (
@@ -10,6 +11,7 @@ export default function Home () {
         <MySkills />
         <AboutMe />
         <MyPortfolio />
+        <ContactMe />
         </>
     )
 }
