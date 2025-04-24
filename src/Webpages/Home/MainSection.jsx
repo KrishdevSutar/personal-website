@@ -10,15 +10,15 @@ export default function MainSection() {
                         Developer
                     </h1>
                     <p className="main--section-description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos laborum officiis accusamus obcaecati quibusdam fuga quod ullam saepe. Adipisci earum ipsum autem non ex quae maxime vitae eveniet reprehenderit odio.
+                        I’m a passionate and results-driven software developer with hands-on experience in backend and full-stack development, cloud infrastructure, and enterprise systems. During my time at TATA Consulting Services, I supported the BMO Investorline platform, resolving technical incidents, optimizing cloud performance using AWS, and enhancing data security through Java-based solutions.
                         <br />
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae iste ullam ratione facilis doloremque. Labore dolorum, maiores nam, ducimus voluptatem expedita sapiente ratione odio tempora neque iure molestias nulla! Ea?
+                        I hold AWS Developer Associate, Cloud Practitioner, and Solutions Architect certifications, and bring a strong foundation in Java, Spring Boot, React, Node.js, and modern cloud technologies. I’m continuously seeking opportunities to apply my skills in building scalable, secure, and impactful software solutions.
                     </p>
                 </div>
                 <button className="btn btn-primary">Touch Me</button>
             </div>
             <div className="main--section--img">
-                <img src="./imgs/images.jpg" alt="main-section" />
+                <img src="./imgs/image.png" alt="main-section" />
             </div>
 
         </section>
